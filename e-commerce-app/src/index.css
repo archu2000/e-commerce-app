@@ -1,0 +1,13 @@
+/* this file will act as a global CSS file */
+/* the style should affect the entire page and not the specific component */
+.highlight
+{
+    background-color: #dfa9dd;
+}
+
+.navbar-style
+{
+    background-color: #151c5c!important;
+    /* !important = This property overrides the default setting of bootstrap 
+    which was already in one color*/
+}
